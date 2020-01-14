@@ -11,8 +11,8 @@
       "rightModuleId": 8,
       "data": {
         "audio": {
-          "driver": 5,
-          "deviceName": "Apple Inc.: External Headphones",
+          "driver": 6,
+          "deviceName": "Speakers (Conexant SmartAudio HD)",
           "offset": 0,
           "maxChannels": 8,
           "sampleRate": 44100,
@@ -36,11 +36,11 @@
         },
         {
           "id": 1,
-          "value": 1.0
+          "value": 1.33516979
         },
         {
           "id": 2,
-          "value": 1.0
+          "value": 1.12147021
         },
         {
           "id": 3,
@@ -48,7 +48,7 @@
         },
         {
           "id": 4,
-          "value": 0.981464267
+          "value": 0.43416366
         }
       ],
       "leftModuleId": 44,
@@ -164,7 +164,7 @@
         },
         {
           "id": 2,
-          "value": 5.39202023
+          "value": -1.38497519
         },
         {
           "id": 3,
@@ -172,11 +172,11 @@
         },
         {
           "id": 4,
-          "value": 0.546000242
+          "value": 0.778500557
         },
         {
           "id": 5,
-          "value": 0.352509916
+          "value": 0.112899989
         },
         {
           "id": 6,
@@ -205,7 +205,7 @@
         },
         {
           "id": 2,
-          "value": 1.0
+          "value": 1.24607444
         },
         {
           "id": 3,
@@ -213,7 +213,7 @@
         },
         {
           "id": 4,
-          "value": 1.0
+          "value": 0.800596714
         }
       ],
       "leftModuleId": 2,
@@ -309,7 +309,7 @@
         },
         {
           "id": 3,
-          "value": 0.162502244
+          "value": 0.117502235
         },
         {
           "id": 4,
@@ -371,11 +371,11 @@
         },
         {
           "id": 2,
-          "value": 5.95502472
+          "value": -8.0
         },
         {
           "id": 3,
-          "value": 0.581999838
+          "value": 0.0
         },
         {
           "id": 4,
@@ -1043,14 +1043,6 @@
       "color": "#c9b70e"
     },
     {
-      "id": 436,
-      "outputModuleId": 2,
-      "outputId": 1,
-      "inputModuleId": 45,
-      "inputId": 0,
-      "color": "#c9b70e"
-    },
-    {
       "id": 433,
       "outputModuleId": 45,
       "outputId": 1,
@@ -1155,14 +1147,6 @@
       "color": "#c91847"
     },
     {
-      "id": 423,
-      "outputModuleId": 28,
-      "outputId": 3,
-      "inputModuleId": 43,
-      "inputId": 32,
-      "color": "#0986ad"
-    },
-    {
       "id": 398,
       "outputModuleId": 41,
       "outputId": 0,
@@ -1211,14 +1195,6 @@
       "color": "#c9b70e"
     },
     {
-      "id": 435,
-      "outputModuleId": 38,
-      "outputId": 3,
-      "inputModuleId": 43,
-      "inputId": 64,
-      "color": "#0c8e15"
-    },
-    {
       "id": 426,
       "outputModuleId": 38,
       "outputId": 1,
@@ -1235,6 +1211,14 @@
       "color": "#c9b70e"
     },
     {
+      "id": 424,
+      "outputModuleId": 43,
+      "outputId": 0,
+      "inputModuleId": 38,
+      "inputId": 8,
+      "color": "#c9b70e"
+    },
+    {
       "id": 416,
       "outputModuleId": 38,
       "outputId": 2,
@@ -1243,11 +1227,43 @@
       "color": "#0986ad"
     },
     {
-      "id": 424,
-      "outputModuleId": 43,
-      "outputId": 0,
-      "inputModuleId": 38,
-      "inputId": 8,
+      "id": 423,
+      "outputModuleId": 17,
+      "outputId": 4,
+      "inputModuleId": 43,
+      "inputId": 32,
+      "color": "#0986ad"
+    },
+    {
+      "id": 435,
+      "outputModuleId": 38,
+      "outputId": 3,
+      "inputModuleId": 36,
+      "inputId": 4,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 441,
+      "outputModuleId": 2,
+      "outputId": 4,
+      "inputModuleId": 2,
+      "inputId": 7,
+      "color": "#c91847"
+    },
+    {
+      "id": 442,
+      "outputModuleId": 2,
+      "outputId": 3,
+      "inputModuleId": 2,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 436,
+      "outputModuleId": 35,
+      "outputId": 2,
+      "inputModuleId": 45,
+      "inputId": 0,
       "color": "#c9b70e"
     }
   ]
