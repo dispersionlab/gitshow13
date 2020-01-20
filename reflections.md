@@ -15,3 +15,5 @@ As a general reaction to the recording, I would say its most perceptible charact
 
 In terms of closeness of the score to the recording, in my opinion, the score is too abstract to describe much about the piece and will not add any information on how the recording has been made to the person who wants to work on the patch next. 
 
+I tried to perform the score on the patch several times by making changes to the knobs and parameters, removing and adding connections, and flipping the switches. I could play something but it was not similar to the recording at all and I think the reason is still the vaugeness of the score description. 
+
