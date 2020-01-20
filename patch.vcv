@@ -11,8 +11,7 @@
       "rightModuleId": 8,
       "data": {
         "audio": {
-          "driver": 5,
-          "deviceName": "Apple Inc.: External Headphones",
+          "driver": 6,
           "offset": 0,
           "maxChannels": 8,
           "sampleRate": 44100,
@@ -32,7 +31,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.960000277
+          "value": 1.4460007
         },
         {
           "id": 1,
@@ -79,11 +78,11 @@
       "params": [
         {
           "id": 0,
-          "value": 0.556500077
+          "value": 0.136500537
         },
         {
           "id": 1,
-          "value": 0.558000088
+          "value": 0.675000191
         },
         {
           "id": 2,
@@ -160,15 +159,15 @@
         },
         {
           "id": 1,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 2,
-          "value": 5.39202023
+          "value": -7.41500282
         },
         {
           "id": 3,
-          "value": 0.319500238
+          "value": 0.430500388
         },
         {
           "id": 4,
@@ -176,7 +175,7 @@
         },
         {
           "id": 5,
-          "value": 0.352509916
+          "value": 0.417189896
         },
         {
           "id": 6,
@@ -363,19 +362,19 @@
       "params": [
         {
           "id": 0,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 1,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 2,
-          "value": 5.95502472
+          "value": 1.8189857
         },
         {
           "id": 3,
-          "value": 0.581999838
+          "value": 1.41899943
         },
         {
           "id": 4,
@@ -392,7 +391,7 @@
     {
       "id": 41,
       "plugin": "DrumKit",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "model": "BassDrum9",
       "params": [
         {
@@ -533,7 +532,7 @@
     {
       "id": 43,
       "plugin": "DrumKit",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "model": "OpenHiHat",
       "params": [
         {
@@ -746,7 +745,7 @@
     {
       "id": 45,
       "plugin": "DrumKit",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "model": "CR78",
       "params": [
         {
@@ -901,8 +900,8 @@
       "rightModuleId": 2,
       "data": {
         "format": "wav",
-        "path": "/Users/audiobeing/gitshow3/recording3.wav",
-        "incrementPath": true,
+        "path": "C:\\gitshow\\gitshow13/recording.wav",
+        "incrementPath": false,
         "sampleRate": 44100,
         "depth": 16,
         "bitRate": 320000
@@ -1051,14 +1050,6 @@
       "color": "#c9b70e"
     },
     {
-      "id": 433,
-      "outputModuleId": 45,
-      "outputId": 1,
-      "inputModuleId": 35,
-      "inputId": 4,
-      "color": "#0986ad"
-    },
-    {
       "id": 380,
       "outputModuleId": 37,
       "outputId": 0,
@@ -1072,14 +1063,6 @@
       "outputId": 1,
       "inputModuleId": 35,
       "inputId": 1,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 428,
-      "outputModuleId": 37,
-      "outputId": 0,
-      "inputModuleId": 2,
-      "inputId": 8,
       "color": "#0c8e15"
     },
     {
@@ -1249,6 +1232,22 @@
       "inputModuleId": 38,
       "inputId": 8,
       "color": "#c9b70e"
+    },
+    {
+      "id": 433,
+      "outputModuleId": 45,
+      "outputId": 1,
+      "inputModuleId": 35,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 428,
+      "outputModuleId": 37,
+      "outputId": 0,
+      "inputModuleId": 2,
+      "inputId": 7,
+      "color": "#0c8e15"
     }
   ]
 }
