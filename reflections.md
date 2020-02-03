@@ -23,3 +23,7 @@
 >![Alternate Text](https://imgur.com/aicSuFN.gif "Link Title")
 
 
+
+This recording sounds very similar to the first week of experimentation.
+
+There are two different tones, a single, constant, percussive buzz, and a tones that becomes more high pitch and low pitched, presumably by a change driven by the user. At around the halfway point, the  piece speeds up considerably. Shortly after, a drum machine is included in the piece as well, as the buzzing stops.
