@@ -1,19 +1,25 @@
+#score composition
 
-> ## Score:
+>I have kept all the modules from last patch but I am trying to make a better score than how it was before, a more explicit and informative one.
 
->-find your flow
+>So, here is how my patch looks like and I will explain what I have changed to produce each sound that you can hear in the recording:
 
->-flip the switches and triggers to change the flow
+>![Alt Image Text](https://imgur.com/XTFyHYc.jpg "patch structure")
 
-It is not clear what is exactly meant by switches and triggers. I think there must have been more explanations about what has been done to the patch maybe by the aid of a few pictures. 
+>**Start State:**
+>First, I set the LFO-1 Frequency to a little below the middle point and LFO-2 Frequency to the minimum. In LFO-1, The left switch is in the Bipolar state and the right one in the 180 degree. In LFO-2, the Wave switch is set to Unipolar at the beginning. In the mixer that I have shown in the picture, CV4 is connected to the Resonator ODD port at the beginning of the piece.
 
->-change streams
 
-Also not clear what are considered as streams and what changes have been made to the patch in order to do that.
+>As the piece starts, I play with the LFO-2 Frequency knob and set it to higher slowly and move it back and forth. I change the Wave switch to Bipolar and back to Unipolar in the same module as well meanwhile.
 
-As a general reaction to the recording, I would say its most perceptible characteristic was the monotonous clicking glitch sound it has roughly throughout the piece. It fades in when the piece starts and several other sounds are slowly added to the underlying glitch most clearly at 0:17. These short added sounds slowly alternate between right and left audio channels until their frequecy becomes higher most noticeably at 0:53. a few so-called ding sounds appear at 1:02 which prepare the flow to change into a lower frequency and the rhythm is suddenly transformed into a very high frequency one at 1:09,gets back to how it was before at 1:17 and becomes slower and slower until only the underlying glitch is hearable and fades out.
+>At ~47, I begin to change the LFO-1 Frequency knob into higher just a bit and leave it. Then I play with the LFO-2 Frequency knob again as I described before.
 
-In terms of closeness of the score to the recording, in my opinion, the score is too abstract to describe much about the piece and will not add any information on how the recording has been made to the person who wants to work on the patch next. 
+>At ~75, I remove the CV4 conncetion with ODD port of resonator and replace it with CV3 port. (CV3 now is connected to ODD) This change will make the sound as you can hear in the recording. I play with the left and right switches in LFO-1 several times and set the frequency to the lowest to end the recording.
 
-I tried to perform the score on the patch several times by making changes to the knobs and parameters, removing and adding connections, and flipping the switches. I could play something but it was not similar to the recording at all and I think the reason is still the vaugeness of the score description. 
+>**Gif Presentation of the Recording:**
+
+>![Alternate Text](https://imgur.com/SQ8E0KV.gif "Link Title")
+
+>![Alternate Text](https://imgur.com/aicSuFN.gif "Link Title")
+
 
